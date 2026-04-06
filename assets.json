@@ -5,7 +5,10 @@
     "price": 20,
     "description": "Perfect 3 different coloured bins for your game!",
     "image": "https://tr.rbxcdn.com/180DAY-175c3d84fff0ea30de89a0ec0f2f9a85/150/150/Model/Png/noFilter",
-    "createdAt": 1775148612527
+    "createdAt": 1775148612527,
+    "category": "Nature",
+    "rating": 0,
+    "featured": false
   },
   {
     "id": "86482821561229",
