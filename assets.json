@@ -20,16 +20,5 @@
     "category": "Road",
     "rating": 0,
     "featured": false
-  },
-  {
-    "id": "N/A",
-    "name": "TUI",
-    "price": 150,
-    "description": "TUI",
-    "image": "https://cdn.discordapp.com/attachments/1510360034247315586/1510365448066170941/asset_image.png?ex=6a1c8cf0&is=6a1b3b70&hm=73bf6d139d6f19ba2a29b66acca8ea55320ec1d02acfeacd5a6fd540272649a8&",
-    "category": "VFX",
-    "rating": 0,
-    "featured": true,
-    "createdAt": 1780170488589
   }
 ]
