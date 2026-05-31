@@ -20,5 +20,16 @@
     "category": "Road",
     "rating": 0,
     "featured": false
+  },
+  {
+    "id": "1",
+    "name": "UK Police Van!",
+    "price": 250,
+    "description": "Perfect Police van for your UK Roleplay game!",
+    "image": "https://cdn.discordapp.com/attachments/1399060898546454540/1510599161420976250/image.png?ex=6a1d6699&is=6a1c1519&hm=e24c2486ea0dcfdb1011cf4e755a8c8ecc56ec54e01b0ca5a3576433acf477ac&",
+    "category": "Cars",
+    "rating": 4,
+    "featured": true,
+    "createdAt": 1780225399346
   }
 ]
